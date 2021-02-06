@@ -46,5 +46,7 @@
 
 ## ESLint 
 [为什么需要使用ESLint、Prettier、EditorConfig](https://github.com/wangjing013/blog/issues/8)
+
 [如何不冲突地设置ESLint、Prettier、EditorConfig](https://github.com/wangjing013/blog/issues/9)
-[结合VSCode更好工作](https://github.com/wangjing013/blog/issues/10)
+
+[结合VSCode拓展更好的工作](https://github.com/wangjing013/blog/issues/10)
