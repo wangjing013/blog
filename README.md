@@ -1,11 +1,5 @@
 # blog
 
-## CSS 相关知识
-
-[BFC]()
-
-## DOM 事件
-
 ## JS 基础篇
 
 ## ES6 系列
@@ -40,13 +34,9 @@
 
 ## ESLint 
 [为什么需要使用ESLint、Prettier、EditorConfig](https://github.com/wangjing013/blog/issues/8)
-
 [如何不冲突地设置ESLint、Prettier、EditorConfig](https://github.com/wangjing013/blog/issues/9)
-
 [结合VSCode拓展更好的工作](https://github.com/wangjing013/blog/issues/10)
 
 ## NodeJS
-[事件循环]
-
 ## Debugger
 [Debugging With PM2 And Vscode](https://github.com/wangjing013/blog/issues/11)
