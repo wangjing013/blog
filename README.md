@@ -21,5 +21,7 @@
 [如何不冲突地设置ESLint、Prettier、EditorConfig](https://github.com/wangjing013/blog/issues/9)
 [结合VSCode拓展更好的工作](https://github.com/wangjing013/blog/issues/10)
 
+## Git 提交规范
+[如何规范你的 Git commit?](https://zhuanlan.zhihu.com/p/182553920?utm_source=org.mozilla.firefox)
 ## Debugger
 [Debugging With PM2 And Vscode](https://github.com/wangjing013/blog/issues/11)
