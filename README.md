@@ -5,3 +5,6 @@
 [Vue 代码规范](https://github.com/wangjing013/blog/issues/24)
 
 [代码整洁之道](https://github.com/ryanmcdermott/clean-code-javascript)
+
+## CSS 组织方式
+[BEM](http://getbem.com/introduction/)
