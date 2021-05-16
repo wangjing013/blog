@@ -36,7 +36,10 @@
   * 创建对象的方式
   * 各种继承
 
-
+## ES6
+## Vue
+## 性能优化
+## 工程化构建
 ## 编码素养
 
 [airbnb JavaScript 代码规范](https://github.com/airbnb/javascript)
