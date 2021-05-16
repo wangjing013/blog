@@ -13,7 +13,7 @@
 
 ## 设计模式
 
-  * 单例模式
+  * [单例模式](https://github.com/wangjing013/blog/issues/15)
   * 工厂模式
   * 装饰器模式
   * 适配器模式
