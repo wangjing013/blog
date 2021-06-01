@@ -2,7 +2,7 @@
 
 ## 数据结构与算法
 
-  * [数组](https://github.com/wangjing013/blog/issues/31)
+  * 数组
   * 栈
   * 队列
   * 链表
