@@ -44,6 +44,10 @@
 ## Vue
 ## 性能优化
 ## 工程化构建
+  #### Webpack
+  * [Define global variable with webpack](https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack)
+  * [Using environment variables with Webpack](https://prateeksurana.me/blog/using-environment-variables-with-webpack/#the-env-file)
+  #### Babel
   * [AST](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
   * [AST Online Tools](https://astexplorer.net/)
 
