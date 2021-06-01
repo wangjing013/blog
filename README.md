@@ -2,15 +2,13 @@
 
 ## 数据结构与算法
 
-  * 数组
   * 栈
   * 队列
-  * 链表
   * 树
   * [时间、空间复杂度](https://github.com/wangjing013/blog/issues/12)
   * [字符串中的应用](https://github.com/wangjing013/blog/issues/26)
   * [数组中的应用](https://github.com/wangjing013/blog/issues/31)
-  * 链表中的应用
+  * [链表中的应用](https://github.com/wangjing013/blog/issues/23)
   * 二叉树中的应用
   * 排序算法
   * 查找算法
