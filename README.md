@@ -41,6 +41,12 @@
 ## ES6
 ## Vue
 ## 性能优化
+  * webpack 性能调优与Gzip压缩
+  * 图片优化
+  * 缓存 
+    * 缓存策略
+    * 本地存储
+  * CDN 的缓存与回源机制解析
 ## 工程化构建
   #### Webpack
   * [Define global variable with webpack](https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack)
