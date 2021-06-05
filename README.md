@@ -51,6 +51,7 @@
   #### Webpack
   * [Define global variable with webpack](https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack)
   * [Using environment variables with Webpack](https://prateeksurana.me/blog/using-environment-variables-with-webpack/#the-env-file)
+  * [How to update all npm packages to latest version](https://reactgo.com/update-npm-packages-latest/)
   #### Babel
   * [AST](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
   * [AST Online Tools](https://astexplorer.net/)
@@ -81,3 +82,6 @@
 [20 Flutter Library, that you should know about it](https://shirsh94.medium.com/20-flutter-library-that-you-should-know-about-it-8f3d33a08817)
 
 [Free Flutter Templates 2021](https://dev.to/pablonax/free-flutter-templates-2021-2hm0)
+
+## 操作系统相关的
+[All You Need to Know About Your Mac’s Hosts File](https://www.cleverfiles.com/howto/hosts-file-mac.html)
