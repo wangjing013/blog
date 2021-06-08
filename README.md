@@ -87,3 +87,7 @@
    * [frisbyjs](https://docs.frisbyjs.com/)
    * [pactumjs](https://pactumjs.github.io/)
    * [supertest](https://github.com/visionmedia/supertest)
+   
+## 部署
+   * [Nginx 部署SPA应用](https://github.com/wangjing013/blog/issues/35)
+   * [PM2 部署 Nuxt]
