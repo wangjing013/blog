@@ -23,6 +23,12 @@
   * 状态模式
   * 观察者模式
   * 迭代器模式
+  
+## CSS 作用域
+
+ * [BEM](http://getbem.com/introduction/)
+ * [bem-101](https://css-tricks.com/bem-101/)
+ * [css Modules](https://github.com/wangjing013/blog/issues/30)
 
 ## JavaScript 
 
@@ -37,10 +43,7 @@
   * 类数组对象与arguments
   * 创建对象的方式
   * 各种继承
-
-## DOM Event
-
-[DOM Events](https://domevents.dev)
+  * [DOM Events](https://domevents.dev)
 
 ## ES6
 ## Vue
@@ -66,12 +69,6 @@
  * [airbnb JavaScript 代码规范](https://github.com/airbnb/javascript)
  * [Vue 代码规范](https://github.com/wangjing013/blog/issues/24)
  * [代码整洁之道](https://github.com/ryanmcdermott/clean-code-javascript)
-
-## CSS 作用域
-
- * [BEM](http://getbem.com/introduction/)
- * [bem-101](https://css-tricks.com/bem-101/)
- * [css Modules](https://github.com/wangjing013/blog/issues/30)
 
 ## 移动端
 
