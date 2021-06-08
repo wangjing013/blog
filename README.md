@@ -76,7 +76,7 @@
 ## 移动端
 
 * Flutter 相关文章
-  * [Flutter 开发中的问题汇总](https://github.com/wangjing013/blog/issues/33) 
+  * [Flutter 开发中的问题汇总](https://github.com/wangjing013/blog/issues/34) 
   * [20 Flutter Library, that you should know about it](https://shirsh94.medium.com/20-flutter-library-that-you-should-know-about-it-8f3d33a08817)
   * [Free Flutter Templates 2021](https://dev.to/pablonax/free-flutter-templates-2021-2hm0)
 
