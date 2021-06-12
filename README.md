@@ -46,7 +46,7 @@
   * [DOM Events](https://domevents.dev)
 
 ## ES6
-  * [ES6 之 let 和 const](https://github.com/wangjing013/blog/issues/37)
+  * [ES6 之 let 和 const](https://github.com/wangjing013/blog/issues/38)
 ## Vue
 ## 性能优化
   * webpack 性能调优与Gzip压缩
