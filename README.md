@@ -47,6 +47,7 @@
 
 ## ES6
   * [let 和 const](https://github.com/wangjing013/blog/issues/38)
+  * [箭头函数](https://github.com/wangjing013/blog/issues/39)
 ## Vue
 ## 性能优化
   * webpack 性能调优与Gzip压缩
