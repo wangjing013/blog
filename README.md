@@ -96,4 +96,5 @@
    * [PM2 部署 Nuxt]
 
 ## 其它
+   [ECMAScript](https://tc39.es/ecma262/multipage/#sec-intro)
    [ECMAScript5.1规范](http://yanhaijing.com/es5/#null)
