@@ -67,10 +67,10 @@
 
 ## 版本控制
 ## 编码素养
- * [优雅处理 async/await 的异常](https://github.com/wangjing013/blog/issues/37)
  * [airbnb JavaScript 代码规范](https://github.com/airbnb/javascript)
  * [Vue 代码规范](https://github.com/wangjing013/blog/issues/24)
  * [代码整洁之道](https://github.com/ryanmcdermott/clean-code-javascript)
+ * [优雅处理 async/await 的异常](https://github.com/wangjing013/blog/issues/37)
 
 ## 移动端
 
@@ -94,3 +94,6 @@
    * [install nginx](https://github.com/wangjing013/blog/issues/35)
    * [nginx 部署 SPA 应用](https://github.com/wangjing013/blog/issues/36)
    * [PM2 部署 Nuxt]
+
+## 其它
+   [ECMAScript5.1规范](http://yanhaijing.com/es5/#null)
