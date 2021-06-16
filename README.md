@@ -52,6 +52,7 @@
 ## Vue
 ## 性能优化
   * webpack 性能调优与Gzip压缩
+    * [HappyPack or thread-loader](https://medium.com/webpack/typescript-webpack-super-pursuit-mode-83cc568dea79)
   * 图片优化
     * [optimize-images-for-web](https://kinsta.com/blog/optimize-images-for-web/)  
   * 缓存 
