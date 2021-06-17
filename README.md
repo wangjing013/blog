@@ -52,8 +52,8 @@
 ## Vue
 ## 性能优化
   * webpack 性能调优与Gzip压缩
-    * [HappyPack or thread-loader](https://medium.com/webpack/typescript-webpack-super-pursuit-mode-83cc568dea79)
-    * [dll](https://survivejs.com/blog/dll-interview/)
+    * [HappyPack 或 thread-loader + cache-loader](https://medium.com/webpack/typescript-webpack-super-pursuit-mode-83cc568dea79)
+    * [DLL](https://survivejs.com/blog/dll-interview/)
   * 图片优化
     * [optimize-images-for-web](https://kinsta.com/blog/optimize-images-for-web/)  
   * 缓存 
@@ -65,7 +65,7 @@
     * [Define global variable with webpack](https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack)
     * [Using environment variables with Webpack](https://prateeksurana.me/blog/using-environment-variables-with-webpack/#the-env-file)
     * [How to update all npm packages to latest version](https://reactgo.com/update-npm-packages-latest/)
-    * [DLL](https://survivejs.com/blog/dll-interview/)
+   
   * Babel
     * [AST](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
     * [AST Online Tools](https://astexplorer.net/)
