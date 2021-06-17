@@ -65,6 +65,7 @@
     * [Define global variable with webpack](https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack)
     * [Using environment variables with Webpack](https://prateeksurana.me/blog/using-environment-variables-with-webpack/#the-env-file)
     * [How to update all npm packages to latest version](https://reactgo.com/update-npm-packages-latest/)
+    * [DLL](https://survivejs.com/blog/dll-interview/)
   * Babel
     * [AST](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
     * [AST Online Tools](https://astexplorer.net/)
