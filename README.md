@@ -51,6 +51,10 @@
   * [箭头函数](https://github.com/wangjing013/blog/issues/39)
 ## Vue
 ## 性能优化
+  * async 和 defer
+    * [Script-injected "async scripts" considered harmful](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
+    * [async](https://medium.com/@vschroeder/javascript-how-to-execute-code-from-an-asynchronously-loaded-script-although-when-it-is-not-bebcbd6da5ea)
+    * [async 和 defer](https://javascript.info/script-async-defer)
   * webpack 性能调优与Gzip压缩
     * [HappyPack 或 thread-loader + cache-loader](https://medium.com/webpack/typescript-webpack-super-pursuit-mode-83cc568dea79)
     * [DLL](https://survivejs.com/blog/dll-interview/)
