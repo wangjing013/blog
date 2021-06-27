@@ -51,6 +51,9 @@
   * [箭头函数](https://github.com/wangjing013/blog/issues/39)
 ## Vue
 ## 性能优化
+  * 预解析
+    * [用 preload 预加载页面资源](https://juejin.cn/post/6844903562070196237)
+    * [Preload，Prefetch 和它们在 Chrome 之中的优先级](https://github.com/xitu/gold-miner/blob/master/TODO/preload-prefetch-and-priorities-in-chrome.md)
   * async 和 defer
     * [Script-injected "async scripts" considered harmful](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
     * [async](https://medium.com/@vschroeder/javascript-how-to-execute-code-from-an-asynchronously-loaded-script-although-when-it-is-not-bebcbd6da5ea)
