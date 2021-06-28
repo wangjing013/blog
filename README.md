@@ -50,6 +50,9 @@
   * [函数新特性](https://github.com/wangjing013/blog/issues/40)
   * [箭头函数](https://github.com/wangjing013/blog/issues/39)
 ## Vue
+## Nuxt
+  * 异常处理
+    * [/how-to-catch-server-errors-in-nuxt-js-so-it-doesnt-crash-page-render-vue](https://stackoverflow.com/questions/66030282/how-to-catch-server-errors-in-nuxt-js-so-it-doesnt-crash-page-render-vue)  
 ## 性能优化
   * 预解析
     * [用 preload 预加载页面资源](https://juejin.cn/post/6844903562070196237)
