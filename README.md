@@ -110,6 +110,9 @@
    * [nginx 部署 SPA 应用](https://github.com/wangjing013/blog/issues/36)
    * [PM2 部署 Nuxt]
 
+## Cookie
+ * [Client side JavaScript can set cookies only for the domain the webpage is hosted on.](https://stackoverflow.com/questions/31074620/setting-cookie-for-different-domain-from-javascript)
+
 ## 其它
    [ECMAScript](https://tc39.es/ecma262/multipage/#sec-intro)
    [ECMAScript5.1规范](http://yanhaijing.com/es5/#null)
