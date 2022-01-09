@@ -19,10 +19,11 @@
   * 工厂模式
   * 装饰器模式
   * 适配器模式
-  * 代理模式
+  * [策略模式](https://github.com/wangjing013/blog/issues/63)
+  * [代理模式](https://github.com/wangjing013/blog/issues/64)
   * 状态模式
   * 观察者模式
-  * 迭代器模式
+  * [迭代器模式](https://github.com/wangjing013/blog/issues/65)
   
 ## CSS 作用域
 
