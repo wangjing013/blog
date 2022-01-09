@@ -114,7 +114,7 @@
 ## 部署
    * [install nginx](https://github.com/wangjing013/blog/issues/35)
    * [nginx 部署 SPA 应用](https://github.com/wangjing013/blog/issues/36)
-   * [PM2 部署 Nuxt]
+   * PM2 部署 Nuxt
 
 ## Cookie
  * [Client side JavaScript can set cookies only for the domain the webpage is hosted on.](https://stackoverflow.com/questions/31074620/setting-cookie-for-different-domain-from-javascript)
