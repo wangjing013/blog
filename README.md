@@ -34,8 +34,9 @@
 ## JavaScript 
 
   * [JavaScript中原型以及原型链](https://github.com/wangjing013/blog/issues/28)
-  * 作用域
-  * 执行上下文
+  * [作用域](https://github.com/wangjing013/blog/issues/58)
+  * [执行上下文](https://github.com/wangjing013/blog/issues/54)
+  * [调用栈](https://github.com/wangjing013/blog/issues/55)
   * 作用域链
   * 闭包
   * call和apply的模拟实现
