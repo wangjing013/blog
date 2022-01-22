@@ -22,7 +22,7 @@
   * [策略模式](https://github.com/wangjing013/blog/issues/63)
   * [代理模式](https://github.com/wangjing013/blog/issues/64)
   * 状态模式
-  * 观察者模式
+  * [观察者模式](https://github.com/wangjing013/blog/issues/66)
   * [迭代器模式](https://github.com/wangjing013/blog/issues/65)
   
 ## CSS 作用域
