@@ -51,10 +51,10 @@
   * [let 和 const](https://github.com/wangjing013/blog/issues/38)
   * [函数新特性](https://github.com/wangjing013/blog/issues/40)
   * [箭头函数](https://github.com/wangjing013/blog/issues/39)
-## Vue
-## Nuxt
-  * 异常处理
-    * [/how-to-catch-server-errors-in-nuxt-js-so-it-doesnt-crash-page-render-vue](https://stackoverflow.com/questions/66030282/how-to-catch-server-errors-in-nuxt-js-so-it-doesnt-crash-page-render-vue)  
+
+## 网络
+ * [TCP/IP](https://zhuanlan.zhihu.com/p/146752547#:~:text=%E5%8F%AA%E6%9C%89%E5%90%8C%E6%AD%A5%E4%BA%86%E5%BA%8F%E5%88%97%E5%8F%B7%E6%89%8D%E6%9C%89%E5%8F%AF%E9%9D%A0%E4%BC%A0%E8%BE%93%EF%BC%8CTCP%20%E8%AE%B8%E5%A4%9A%E7%89%B9%E6%80%A7%E9%83%BD%E4%BE%9D%E8%B5%96%E4%BA%8E%E5%BA%8F%E5%88%97%E5%8F%B7%E5%AE%9E%E7%8E%B0%EF%BC%8C%E6%AF%94%E5%A6%82%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%E3%80%81%E4%B8%A2%E5%8C%85%E9%87%8D%E4%BC%A0%E7%AD%89%EF%BC%8C%E8%BF%99%E4%B9%9F%E6%98%AF%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E4%B8%AD%E7%9A%84%E6%8A%A5%E6%96%87%E7%A7%B0%E4%B8%BA%20SYN%20%E7%9A%84%E5%8E%9F%E5%9B%A0%EF%BC%8CSYN%20%E7%9A%84%E5%85%A8%E7%A7%B0%E5%B0%B1%E5%8F%AB%20Synchronize%20Sequence%20Numbers,SYN%20%E5%8C%85%EF%BC%8C%20%E9%87%8D%E5%8F%91%E7%9A%84%E6%AC%A1%E6%95%B0%E7%94%B1%20tcp_syn_retries%20%E5%8F%82%E6%95%B0%E6%8E%A7%E5%88%B6%20%EF%BC%8C%E9%BB%98%E8%AE%A4%E6%98%AF%205%20%E6%AC%A1%EF%BC%9A)
+
 ## 性能优化
   * 预解析
     * [用 preload 预加载页面资源](https://juejin.cn/post/6844903562070196237)
@@ -72,6 +72,7 @@
     * 缓存策略
     * 本地存储
   * CDN 的缓存与回源机制解析
+
 ## 工程化构建
   * Webpack
     * [Define global variable with webpack](https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack)
@@ -86,7 +87,6 @@
 * [single-spa](https://zh-hans.single-spa.js.org/)
 * [qiankun](https://qiankun.umijs.org/zh/api)
 
-## 版本控制
 ## 编码素养
  * [airbnb JavaScript 代码规范](https://github.com/airbnb/javascript)
  * [Vue 代码规范](https://github.com/wangjing013/blog/issues/24)
@@ -126,9 +126,4 @@
    
    
 ## 2022 Vue Roadmap
-
 <img width="862" alt="2022 Vue Roadmap" src="https://user-images.githubusercontent.com/16115421/149647863-f020deda-46d7-4434-85f6-ab4d1f6ccec8.png">
-
-## 2022 React Roadmap
-
-<img width="759" alt="2022 React Roadmap" src="https://user-images.githubusercontent.com/16115421/149647870-daa623e9-d07d-425b-8e66-da5a15add7b2.png">
