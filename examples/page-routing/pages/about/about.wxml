@@ -1,0 +1,5 @@
+<!--pages/about/about.wxml-->
+<view>
+  <button bindtap="onOther">other</button>
+  <button bindtap="onSwitchTab">switch to tabB</button>
+</view>

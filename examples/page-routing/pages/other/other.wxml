@@ -1,0 +1,9 @@
+<!--pages/other/other.wxml-->
+<view>
+  <navigator open-type="redirect" url="/pages/index/index">
+    redirect to TabA
+  </navigator>
+  <button bindtap="onSwitchTab">
+    switch to TabB
+  </button>
+</view>
