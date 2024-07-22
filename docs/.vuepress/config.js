@@ -7,7 +7,7 @@ module.exports = {
     nav: [
       {
         text: '首页',
-        link: '/'
+        link: '/',
       },
       // {
       //   text: 'Vue',
@@ -17,14 +17,18 @@ module.exports = {
       //   text: 'Nuxt',
       //   link: '/nuxt/'
       // },
+      // {
+      //   text: 'React',
+      //   link: '/react/'
+      // },
       {
         text: 'Uniapp',
-        link: '/uniapp/'
+        link: '/uniapp/',
       },
-      {
-        text: '微信公众号',
-        link: '/wechat-public/'
-      },
+      // {
+      //   text: '微信公众号',
+      //   link: '/wechat-public/',
+      // },
       // {
       //   text: 'Flutter',
       //   link: '/flutter/'
@@ -37,38 +41,36 @@ module.exports = {
       //   text: 'NodeJS',
       //   link: '/nodejs/'
       // },
-      {
-        text: '博客',
-        items: [
-          {
-            text: 'GitHub',
-            link: 'https://github.com/wangjing013/blog'
-          }
-        ]
-      }
+      // {
+      //   text: '博客',
+      //   items: [
+      //     {
+      //       text: 'GitHub',
+      //       link: 'https://github.com/wangjing013/blog',
+      //     },
+      //   ],
+      // },
     ],
     sidebar: {
       '/nuxt/': [
         {
-          title: "使用",
+          title: '使用',
           collapsable: false,
           sidebarDepth: 2,
-          children: [
-          ]
-        }
+          children: [],
+        },
       ],
       '/vue/': [
         {
-          title: "使用",
+          title: '使用',
           collapsable: false,
           sidebarDepth: 2,
-          children: [
-          ]
-        }
+          children: [],
+        },
       ],
       '/uniapp/': [
         {
-          title: "Uniapp",
+          title: 'Uniapp',
           collapsable: false,
           sidebarDepth: 2,
           children: [
@@ -99,30 +101,26 @@ module.exports = {
             'android',
             'ios',
             'faq',
-          ]
-        }
+          ],
+        },
       ],
       '/flutter/': [
         {
-          title: "使用",
+          title: '使用',
           collapsable: false,
           sidebarDepth: 2,
-          children: [
-          ]
-        }
+          children: [],
+        },
       ],
       '/wechat-public/': [
         {
-          title: "公众号",
+          title: '公众号',
           collapsable: false,
           sidebarDepth: 2,
-          children: [
-            '',
-            'faq'
-          ]
-        }
+          children: ['', 'faq'],
+        },
       ],
     },
     lastUpdated: 'Last Updated',
-  }
-}
+  },
+};
