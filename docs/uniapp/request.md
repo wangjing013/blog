@@ -1,5 +1,3 @@
-# 请求库
-
 ## 背景
 
 在前端开发中，HTTP 请求是与服务器进行数据交互的核心手段。无论是获取数据还是提交数据，前端应用几乎都离不开 HTTP 请求。在 uniapp 中，`uni.request` 是官方提供的用于发起 HTTP 请求的基础 API。然而，直接使用 `uni.request` 存在一些问题和不足，比如：
@@ -428,8 +426,7 @@ get({
 
 为了掌握上面的内容，需要掌握 `uni.addInterceptor`、`uni.request ` 执行的完整流程。以下是整理的不同情况下的流程图，可以参考学习。
 
-<img src="./images/promise.jpeg" />
-
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/234be2f8bca84d7c84432a816b191032.jpeg)
 上面流程图对应示例代码：
 
 ```js
@@ -459,8 +456,7 @@ uni
   });
 ```
 
-<img src="./images/callback.jpeg" />
-
+![callback.jpg](https://img-blog.csdnimg.cn/img_convert/61cb279430429d14e927587745aa39f0.jpeg)
 上面流程图对应示例代码：
 
 ```js
@@ -487,5 +483,3 @@ uni.request({
   },
 });
 ```
-
-如果大家觉得有帮助，请点赞、收藏、分享，谢谢！
