@@ -25,10 +25,10 @@ module.exports = {
         text: 'Uniapp',
         link: '/uniapp/',
       },
-      // {
-      //   text: '微信公众号',
-      //   link: '/wechat-public/',
-      // },
+      {
+        text: '微信公众号',
+        link: '/wechat-public/',
+      },
       // {
       //   text: 'Flutter',
       //   link: '/flutter/'
@@ -81,8 +81,8 @@ module.exports = {
                 'created',
                 'request',
                 'state',
-                'persistence',
                 'upx',
+                'event-channel',
               ],
             },
             {

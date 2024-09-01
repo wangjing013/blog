@@ -428,7 +428,8 @@ get({
 
 为了掌握上面的内容，需要掌握 `uni.addInterceptor`、`uni.request ` 执行的完整流程。以下是整理的不同情况下的流程图，可以参考学习。
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/234be2f8bca84d7c84432a816b191032.jpeg)
+<img src="./images/request/1.jpeg"/>
+
 上面流程图对应示例代码：
 
 ```js
@@ -458,7 +459,8 @@ uni
   });
 ```
 
-![callback.jpg](https://img-blog.csdnimg.cn/img_convert/61cb279430429d14e927587745aa39f0.jpeg)
+<img src="./images/request/2.jpeg"/>
+
 上面流程图对应示例代码：
 
 ```js
