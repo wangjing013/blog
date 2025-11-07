@@ -74,7 +74,7 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             {
-              title: '使用',
+              title: '通用',
               sidebarDepth: 3,
               children: [
                 '',
