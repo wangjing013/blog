@@ -9,18 +9,18 @@ module.exports = {
         text: '首页',
         link: '/',
       },
-      // {
-      //   text: 'Vue',
-      //   link: '/vue/'
-      // },
-      //  {
-      //   text: 'Nuxt',
-      //   link: '/nuxt/'
-      // },
-      // {
-      //   text: 'React',
-      //   link: '/react/'
-      // },
+      {
+        text: 'React',
+        link: '/react/'
+      },
+       {
+        text: 'Vue',
+        link: '/vue/'
+      },
+       {
+        text: 'Nuxt',
+        link: '/nuxt/'
+      },
       {
         text: 'Uniapp',
         link: '/uniapp/',
@@ -29,14 +29,6 @@ module.exports = {
         text: '微信公众号',
         link: '/wechat-public/',
       },
-      // {
-      //   text: 'Flutter',
-      //   link: '/flutter/'
-      // },
-      // {
-      //   text: 'Webpack',
-      //   link: '/webpack/'
-      // },
       // {
       //   text: 'NodeJS',
       //   link: '/nodejs/'
@@ -122,14 +114,6 @@ module.exports = {
               ],
             }
           ],
-        },
-      ],
-      '/flutter/': [
-        {
-          title: '使用',
-          collapsable: false,
-          sidebarDepth: 2,
-          children: [],
         },
       ],
       '/wechat-public/': [
