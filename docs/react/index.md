@@ -1,41 +1,52 @@
 # React
 
 * 如何快速创建一个 React 项目
-    * vite
+    * Vite
     * Next
-* React hook 
+* 组件编写方式
+    * 函数式组件
+* 组件之间的传参
+    * props
+    * createContext & useContext
+    * state management
+* hook 
     * 内置 hook
         * useState
-        * useRef
         * useEffect
+        * useRef
         * useMemo
+        * useContext
         * useCallback
+        * useReducer
     * 外部 hook 库，这样可以帮助简化功能实现，提升开发效率
         * ahooks
         * usehooks 
-* React 组织样式的方式以及编写类名遵循 BEM 规范
+    * 自定义
+* 编写 CSS 
     * 内连样式
     * 普通 css 文件
     * css modules
     * css in js
     * styled-components
-* React 常用的组件库以及引入
+* 组件库
     * Ant Design
     * Ant Mobile Design
-* React 如何正确发送数据请求
-    * axios
-    * react-query
-    * swr
-* React 中创建 mock 数据
-    * fakerjs
-* React 中使用路由
-    * react-router
-* React 状态管理
+* 状态管理
     * zustand
-* React 国际化
+* 路由
+    * react-router
+    * Tanstack Router
+* 调用 API 
+    * axios
+    * swr
+    * react-query
+* 数据 Mock
+    * fakerjs
+* 测试
+    * Cypress
+* 国际化
     * react-i18next
-* React 项目部署
+* 项目部署
     * nginx
-    * Github Pages
 
 
