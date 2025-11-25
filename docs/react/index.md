@@ -3,14 +3,13 @@
 * 如何快速创建一个 React 项目
     * Vite
     * Next
-* 组件编写方式
-    * 函数式组件
-* 组件之间的传参
+* 函数式组件
+* 组件之间的传参方式
     * props
     * createContext & useContext
     * state management
-* hook 
-    * 内置 hook
+* hooks 
+    * 常用的内置 hooks
         * useState
         * useEffect
         * useRef
@@ -18,10 +17,10 @@
         * useContext
         * useCallback
         * useReducer
-    * 外部 hook 库，这样可以帮助简化功能实现，提升开发效率
+    * 外部 hooks 库
         * ahooks
         * usehooks 
-    * 自定义
+    * 自定义 hooks
 * 编写 CSS 
     * 内连样式
     * 普通 css 文件
@@ -41,7 +40,7 @@
     * swr
     * react-query
 * 数据 Mock
-    * fakerjs
+    * Vite plugin + fakerjs
 * 测试
     * Cypress
 * 国际化
