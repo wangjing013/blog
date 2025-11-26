@@ -1,4 +1,4 @@
-# React
+# 大纲
 
 * 如何快速创建一个 React 项目
     * Vite
@@ -47,5 +47,6 @@
     * react-i18next
 * 项目部署
     * nginx
+* FAQ
 
 

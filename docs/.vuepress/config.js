@@ -29,27 +29,27 @@ module.exports = {
         text: '微信公众号',
         link: '/wechat-public/',
       },
-      // {
-      //   text: 'NodeJS',
-      //   link: '/nodejs/'
-      // },
-      // {
-      //   text: '博客',
-      //   items: [
-      //     {
-      //       text: 'GitHub',
-      //       link: 'https://github.com/wangjing013/blog',
-      //     },
-      //   ],
-      // },
     ],
     sidebar: {
+      '/react/':[
+        {
+          title: '通用',
+          collapsable: false,
+          children: [
+            '',
+            'create/',
+            'faq/'
+          ],
+        },
+      ],
       '/nuxt/': [
         {
           title: '使用',
           collapsable: false,
           sidebarDepth: 2,
-          children: [],
+          children: [
+            '',
+          ],
         },
       ],
       '/vue/': [
