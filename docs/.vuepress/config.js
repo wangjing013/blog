@@ -38,6 +38,7 @@ module.exports = {
           children: [
             '',
             'create/',
+            'context/',
             'faq/'
           ],
         },
