@@ -50,6 +50,15 @@ module.exports = {
           sidebarDepth: 2,
           children: [
             '',
+            'pages',
+            'style',
+            'icons',
+            'lifecycle',
+            'plugins',
+            'middleware',
+            'utils',
+            'state-management',
+            'deployment'
           ],
         },
       ],
