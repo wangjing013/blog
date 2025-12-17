@@ -31,5 +31,6 @@
 * 逻辑与视图紧密相关，所以 React 将它们放在一个组件中
 * JSX 类似 HTML，但是 JSX 最终会转化为 JavaScript 对象
 * JSX 属性命名采用驼峰的原因
+* 使用[转化器](https://transform.tools/html-to-jsx)将 HTML 转换为 JSX 
 
 

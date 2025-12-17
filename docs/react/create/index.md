@@ -1,6 +1,6 @@
 # 创建 React 应用
 
-如果希望基于 React 去构建一个新的 app 或 网站，建议从一个框架开始。
+如果希望基于 ``React`` 去构建一个新的 ``app`` 或 ``网站``，建议从一个框架开始。
 
 ## Next.js (App Router) 
 
@@ -14,7 +14,7 @@ npx create-next-app@latest
 
 ## React Router (v7) 
 
-React Router 是 React 最流行的路由库，可以与 Vite 结合使用，构建全栈 React 框架。它强调标准 Web API，并提供多个适用于各种 ``JavaScript`` 运行时和平台的即用型模板。
+``React Router`` 是 ``React`` 最流行的路由库，可以与 ``Vite`` 结合使用，构建全栈 ``React`` 框架。它强调标准 Web API，并提供多个适用于各种 ``JavaScript`` 运行时和平台的即用型模板。
 
 ```shell
 npx create-react-router@latest
@@ -30,7 +30,7 @@ React Router 是由 Shopify 维护。
 npx create-expo-app@latest
 ```
 
-如果不实用框架，也可以使用 ``Vite`` 脚手架来生成基础项目模版
+如果不想使用框架，也可以使用 ``Vite`` 脚手架来生成基础项目模版
 
 ## Vite
 
