@@ -5,6 +5,7 @@
 * 为什么 React 将标签与渲染逻辑混合在一起
 * JSX 与 HTML 之间的不同
 * JSX 规范
+* JSX 使用
 
 ## 标签与逻辑混在一起的原因
 
@@ -25,6 +26,84 @@
 * 使用驼峰命名法给大部分属性命名
     * JS 对变量的命名有限制，比如是字母数据下划线，且不能使用像 ``class`` 这样的保留字，这就是为什么会使用 ``className`` 来表示 ``class``。其他属性类推。
 
+## JSX 使用
+
+
+### 嵌入表达式
+
+在 JSX 中，你可以使用大括号 ``{}`` 来嵌入任何的 ``JavaScript`` 表达式。
+
+```jsx
+const name = 'John';
+const element = <h1>Hello, {name}</h1>;
+```
+
+### 条件渲染
+
+你可以使用条件表达式来决定是否渲染某个元素。
+
+```jsx
+const isLoggedIn = true;
+const element = (
+    <div>
+        {isLoggedIn ? <h1>Welcome back!</h1> : <h1>Please sign up.</h1>}
+    </div>
+);
+```
+
+### 列表渲染
+你可以使用数组的 ``map()`` 方法来渲染列表。
+
+```jsx
+const numbers = [1, 2, 3, 4, 5];
+const listItems = numbers.map((number) =>
+    <li key={number.toString()}>{number}</li>
+);
+const element = (
+    <ul>
+        {listItems}
+    </ul>
+);
+```
+
+### 样式与类名
+
+在 JSX 中，你可以使用 ``style`` 属性来内联样式，使用 ``className`` 来指定类名。
+
+```jsx
+const element = <div className="container" style={{ color: 'blue', fontSize: '14px' }}>Hello World</div>;
+``` 
+
+### 动态类名
+
+你可以根据条件动态设置类名。
+
+```jsx
+const isActive = true;
+const className = isActive ? 'active' : 'inactive';
+const element = <div className={className}>Content</div>;
+```
+
+如果多个类名，可以使用模板字符串：
+
+```jsx
+const isActive = true;
+const isDisabled = false;
+const className = `${isActive ? 'active' : ''} ${isDisabled ? 'disabled' : ''}`.trim();
+const element = <div className={className}>Content</div>;
+``` 
+
+或者，使用数组和 ``join()`` 方法：
+
+```jsx
+const isActive = true;
+const isDisabled = false;
+const classNames = [
+    isActive ? 'active' : null,
+    isDisabled ? 'disabled' : null
+].filter(Boolean).join(' ');
+const element = <div className={classNames}>Content</div>;
+```
 
 ## 总结
 
@@ -32,5 +111,7 @@
 * JSX 类似 HTML，但是 JSX 最终会转化为 JavaScript 对象
 * JSX 属性命名采用驼峰的原因
 * 使用[转化器](https://transform.tools/html-to-jsx)将 HTML 转换为 JSX 
+* JSX 中嵌入表达式、条件渲染、列表渲染的方法
+
 
 
