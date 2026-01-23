@@ -187,7 +187,6 @@ fs.readFile(__filename, () => {
 
 > 我们建议开发人员在所有情况下都使用 setImmediate ()，因为它更容易理解。
 
-
 ## 为什么使用 process.nextTick ()？
 
 有两个主要原因：
