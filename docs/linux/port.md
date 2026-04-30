@@ -10,5 +10,5 @@ lsof -i :8080
 
 ```shell
 kill <PID>
-kill -9 <PID> # 发送 SIGKILL 信号 (强制终止，仅在进程无响应时使用)
+kill -9 <PID>
 ```
