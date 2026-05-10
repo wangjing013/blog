@@ -11,36 +11,23 @@ module.exports = {
       },
       {
         text: 'React',
-        link: '/react/'
+        link: '/react/',
       },
-       {
-        text: 'Vue',
-        link: '/vue/'
-      },
-       {
+      {
         text: 'Nuxt',
-        link: '/nuxt/'
+        link: '/nuxt/',
       },
       {
         text: 'Uniapp',
         link: '/uniapp/',
       },
-      {
-        text: '微信公众号',
-        link: '/wechat-public/',
-      },
     ],
     sidebar: {
-      '/react/':[
+      '/react/': [
         {
           title: '通用',
           collapsable: false,
-          children: [
-            '',
-            'create/',
-            'context/',
-            'faq/'
-          ],
+          children: ['', 'create/', 'context/', 'faq/'],
         },
       ],
       '/nuxt/': [
@@ -58,7 +45,7 @@ module.exports = {
             'middleware',
             'utils',
             'state-management',
-            'deployment'
+            'deployment',
           ],
         },
       ],
@@ -84,17 +71,13 @@ module.exports = {
                 'request',
                 'state',
                 'event-channel',
-                'animation'
+                'animation',
               ],
             },
             {
               title: 'H5',
               sidebarDepth: 3,
-              children: [
-                'hybird',
-                'h5-album',
-                'open-app',
-              ],
+              children: ['hybird', 'h5-album', 'open-app'],
             },
             {
               title: '小程序',
@@ -122,16 +105,8 @@ module.exports = {
                 'app-album',
                 'pay',
               ],
-            }
+            },
           ],
-        },
-      ],
-      '/wechat-public/': [
-        {
-          title: '公众号',
-          collapsable: false,
-          sidebarDepth: 2,
-          children: ['', 'faq'],
         },
       ],
     },
