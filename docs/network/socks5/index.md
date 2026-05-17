@@ -104,11 +104,10 @@ const username = Uint8Array.prototype.slice.call(buff, 2, 2 + usernameLastPos).t
     *   `0x03`: UDP ASSOCIATE。
 *   **RSV**：保留字段，固定 `0x00`。
 *   **ATYP**：目标地址类型。
-    *   `0x01`: IPv4 (后面跟 4 字节 IP)。
-    *   `0x03`: 域名 (后面第一个字节是长度，接着是域名字符串)。
-    *   `0x04`: IPv6 (后面跟 16 字节 IP)。
+    *   `0x01`: IPv4 (后面 4 个字节表示 IP 内容)。
+    *   `0x03`: 域名  (后面第一个字节（Byte） 表示域名的长度，接着是域名字符串)。
+    *   `0x04`: IPv6 (后续紧跟 16 字节（Byte）的 IP 地址内容)，IPv6 是 ``128`` 位的二进制地址，采用冒号分割的十六进制表示法，其格式 x:x:x:x:x:x:x:x，x 表示的是4位16进制数。
 *   **DST.ADDR & DST.PORT**：目标地址和 2 字节端口（大端序）。
-
 
 通过一个案例理解下
 
