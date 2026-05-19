@@ -209,7 +209,7 @@ const handler = (socket: Socket<SocketData>, data: Buffer<ArrayBufferLike>) => {
         console.info("认证失败")
         return socket.end(AUTH_FAIL_RES);
     }
-    socket.data.status = "auth";
+    socket.data.status = AUTH;
 
     // 2、获取服务地址
     const addr = getAddressInfo(rawStr);
